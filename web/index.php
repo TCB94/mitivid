@@ -459,9 +459,9 @@
 
                     <h3>What's New</h3>
                     <p class="whats-new-text">
-                        SubRocks is out! If you're seeing this... This is a YouTube recreation during 2009. SubRocks welcomes anyone.<br><br><b>Have fun!</b>
+                        MitiVid is out! If you're seeing this... This is a YouTube recreation during 2009. MitiVid welcomes anyone.<br><br><b>Have fun!</b>
                     </p>
-                    <h3>YTPMV/YTP Contest</h3>
+                    <h3>Welcome to Mitivid!</h3>
                     <p class="whats-new-text">
                         <a href="/blog">Read more about it in our blog...</a>
                     </p>
